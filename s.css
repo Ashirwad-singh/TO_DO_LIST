@@ -1,0 +1,44 @@
+body{
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+    font-weight: bolder;
+    color: rgb(20, 122, 210);
+
+}
+h2{
+    text-align: center;
+     font-weight: lighter;
+
+}
+.todo{
+    margin: auto;
+    height: 30rem;
+    width: 30rem;
+    background-color: rgb(217,196,183);
+    border: 2px solid red;
+    /* overflow: hidden; */
+}
+.input{
+    margin:auto;
+    height: 1.3rem;
+    width: 20rem;
+    /* border: 2px dashed rgb(22, 24, 19); */
+    margin-top: 20px;
+    /* overflow: scroll; */
+}
+.task{
+    color:blueviolet;
+    
+    height: 2.5rem;
+}
+.list{
+    height:20rem ;
+    width: 20rem;
+    background-color:  rgb(234,222,215);
+    margin: auto;
+    border: 2px solid red;
+    overflow:scroll;
+}
